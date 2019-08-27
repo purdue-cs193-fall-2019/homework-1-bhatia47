@@ -1,7 +1,7 @@
 
 # Manan Bhatia's First CS193 Homework
 
-**Favorite things about CS193: **
+## Favorite things about CS193: 
 
 - iclicker quizzes(I feel like they're kinda cool and help in revision!)
 - really just excited bout the subject as a whole.
